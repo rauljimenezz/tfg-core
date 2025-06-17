@@ -1,0 +1,15 @@
+Vídeo 1:
+- Registro de un usuario e inicio de sesión tras creación.
+- Creación de reserva de usuario.
+- Publicación de reseña de usuario.
+- Solicitud de publicación de vehículo, aceptación de administrador y mostrar que cambia el rol a Propietario lo que hace que en 
+el perfil tenga dos apartados para gestoinar reservas y reseñas en sus vehículos.
+
+Vídeo 2:
+- Cambio de datos de usuario.
+- Creación de alerta.
+- Uso de filtros para la búsqueda.
+
+Vídeo 3:
+- Creación de reserva, aceptación de la reserva desde panel de administrador, ver como cambia a aprobada en el perfil del usuario.
+- Ver los apartados del panel de administrador.
